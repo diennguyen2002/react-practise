@@ -7,6 +7,5 @@ import Counter from './components/Counter'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    {/* <Counter></Counter> */}
   </StrictMode>,
 )

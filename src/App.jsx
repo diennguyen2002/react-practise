@@ -1,12 +1,12 @@
 import "./App.css";
-import Counter from "./components/Counter";
+import Todo from "./components/TodoApp";
 
 export default function App() {
   return (
     <>
       <div>
-        <h2>Demo Counter</h2>
-        <Counter />
+        <h2>Demo Todos</h2>
+        <Todo></Todo>
       </div>
     </>
   );
